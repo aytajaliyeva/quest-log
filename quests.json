@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Goblin Camp",
+    "items": {
+      "sword": 1,
+      "shield": 1,
+      "potion": 2
+    }
+  },
+  {
+    "name": "Dragon Slayer",
+    "items": {
+      "sword": 1,
+      "potion": 5,
+      "fire_resist": 1,
+      "rope": 1
+    }
+  },
+  {
+    "name": "Village Rescue",
+    "items": {
+      "sword": 1,
+      "potion": 1,
+      "torch": 2
+    }
+  },
+  {
+    "name": "Quick Delivery",
+    "items": {
+      "rope": 1,
+      "torch": 1
+    }
+  }
+]
